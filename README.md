@@ -121,7 +121,6 @@ Proje kapsamında yararlanılan başlıca çalışmalar:
 - Das & Noor (2024) - YOLOv2 + SAM entegrasyonu
 - El-Baz et al. (2022) - Gerçek zamanlı GUI sistemleri
 
-(Tam kaynak listesi ödev raporunda yer almaktadır.)
 
 ---
 
